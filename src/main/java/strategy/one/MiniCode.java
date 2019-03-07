@@ -1,7 +1,7 @@
 package main.java.strategy.one;
 
 /**
- * 使用策略模式
+ * 使用适配器模式
  * 
  * @author linruqing
  *

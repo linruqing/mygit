@@ -1,4 +1,4 @@
-package main.java.strategy;
+package main.java.strategy.two;
 
 public class PrintBuzz implements PrintStrategy {
 

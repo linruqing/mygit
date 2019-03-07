@@ -1,4 +1,4 @@
-package main.java.strategy;
+package main.java.strategy.two;
 
 /**
  * 使用策略模式

@@ -1,4 +1,4 @@
-package main.java.strategy;
+package main.java.strategy.two;
 
 import java.util.ArrayList;
 import java.util.List;

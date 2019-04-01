@@ -9,7 +9,6 @@ package main.java.simple;
 public class MiniCode {
 
 	public static void pintFizzOrBuzzOrFizzBuzz(int number) {
-		System.out.println();
 		if (number <= 0 || number > Integer.MAX_VALUE) {
 			System.out.println("number passed must be bigger then 0 or less than Integer.MAX_VALUE !");
 			return;
